@@ -1,0 +1,69 @@
+{
+  "atualizadoEm": "2026-10-02T12:01:27.573Z",
+  "fontes": {
+    "zap": {
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
+      "http": [
+        403
+      ],
+      "erro": "HTTP 403"
+    },
+    "vivareal": {
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
+      "http": [
+        403
+      ],
+      "erro": "HTTP 403"
+    },
+    "olx": {
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
+      "http": [
+        403
+      ],
+      "erro": "HTTP 403"
+    },
+    "clovia": {
+      "ok": true,
+      "paginas": 3,
+      "cartoes": 26,
+      "anuncios": 16,
+      "http": [
+        200,
+        200,
+        200
+      ],
+      "erro": null
+    },
+    "kellylima": {
+      "ok": true,
+      "paginas": 3,
+      "cartoes": 63,
+      "anuncios": 58,
+      "http": [
+        200,
+        200,
+        200
+      ],
+      "erro": null
+    },
+    "renatabarbosa": {
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
+      "http": [
+        403
+      ],
+      "erro": "HTTP 403"
+    }
+  }
+}
