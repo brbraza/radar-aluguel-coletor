@@ -96,6 +96,8 @@ function detectarBairro(...textos) {
 }
 
 /* ---------------- extração genérica de cartões ---------------- */
+// imagens que não são fotos do imóvel (selos, ícones de quarto/banheiro/vaga etc.)
+const ICONES = /(alugad|vendid|locad|bed_|shower_|car_|area_|icone?s?[_/-]|\/images\/[^/]+\.png|selo|badge|whatsapp\.png|marca-?d)/i;
 function extrairCartoes(html, fonte, base) {
   const $ = cheerio.load(html);
   const absol = (u) => { try { return new URL(u, base).href; } catch { return null; } };
@@ -139,12 +141,15 @@ function extrairCartoes(html, fonte, base) {
       const m = String($(el).attr("style")).match(/url\(['"]?([^'")]+)/);
       if (m) { const u = absol(m[1]); if (u) imgs.push(u); }
     });
-    saida.push({ url, id, titulo, texto, fotos: [...new Set(imgs)].slice(0, 10) });
+    let indisponivel = /\b(alugad[oa]|locad[oa]|vendid[oa]|indispon[ií]vel)\b/i.test(texto);
+    card.find("img").each((_, im) => { if (/alugad|vendid|locad/i.test(($(im).attr("src") || "") + ($(im).attr("alt") || ""))) indisponivel = true; });
+    saida.push({ url, id, titulo, texto, indisponivel, fotos: [...new Set(imgs)].filter((u) => !ICONES.test(u)).slice(0, 10) });
   }
   return saida;
 }
 
 function interpretar(c, fonte) {
+  if (c.indisponivel) return null;
   const tudo = `${c.titulo} | ${c.texto} | ${decodeURIComponent(c.url).replace(/[-/]/g, " ")}`;
   const n = norm(tudo);
   if (!n.includes("teixeira de freitas") && !n.includes("teixeira-de-freitas")) return null;
@@ -180,9 +185,18 @@ function interpretar(c, fonte) {
   if (!bairro && mZap) bairro = titleCase(mZap[1]);
   bairro = detectarBairro(bairro || "", c.titulo) || bairro;
 
+  let titulo = c.titulo;
+  if (!titulo || titulo.length < 25 || /^(casa|apartamento|kitinete?|kitnet|im[oó]vel)s?( para alugar)?$/i.test(titulo)) {
+    const partes = new URL(c.url).pathname.split("/").filter(Boolean);
+    const slug = partes.length >= 2 ? partes[partes.length - 2] : "";
+    if (/[a-z]-[a-z]/.test(slug) && slug.length > 15) {
+      const t = decodeURIComponent(slug).replace(/--+/g, " – ").replace(/-/g, " ").replace(/\s+/g, " ").trim();
+      titulo = t.charAt(0).toUpperCase() + t.slice(1);
+    }
+  }
   return {
     id: `${fonte.id}-${String(c.id).toLowerCase()}`,
-    titulo: c.titulo || `${tipo === "casa" ? "Casa" : "Apartamento"} para alugar`,
+    titulo: (titulo || `${tipo === "casa" ? "Casa" : "Apartamento"} para alugar`).slice(0, 140),
     descricao: "",
     tipo,
     status: "ativo",
@@ -214,8 +228,9 @@ async function enriquecer(a) {
       const u = $(im).attr("src") || $(im).attr("data-src");
       if (u && /^https?:/.test(u) && /(resizedimgs|img\.kenlo|cloudfront|olx|imgs?\.|\/fotos?\/|uploads)/i.test(u) && !/logo|icon|\.svg/i.test(u)) fotos.push(u);
     });
-    a.descricao = desc.slice(0, 3000);
-    a.fotos = [...new Set(fotos)].slice(0, 12);
+    a.descricao = desc.replace(/\\n/g, "\n").replace(/\n{3,}/g, "\n\n").slice(0, 3000);
+    if (/\b(alugad[oa]|im[oó]vel locado)\b/i.test(limpa($("h1").text()))) a.status = "indisponivel";
+    a.fotos = [...new Set(fotos)].filter((u) => !ICONES.test(u)).slice(0, 12);
     a.fotoPrincipal = a.fotos[0] || null;
     const n = norm(desc);
     if (a.caracteristicas.quartos == null) { const m = n.match(/(\d+)\s*(?:quartos?|dormitorios?)/); if (m) a.caracteristicas.quartos = Number(m[1]); }
@@ -283,7 +298,9 @@ for (const a of coletados.values()) {
     a.rastreamento = { primeiraCapturaEm: agora, ultimaCapturaEm: agora };
     if (detalhes < MAX_DETALHES_POR_EXECUCAO) { await enriquecer(a); detalhes++; await dormir(PAUSA_MS); }
   }
-  finais.push(a);
+  a.fotos = (a.fotos || []).filter((u) => !ICONES.test(u));
+  a.fotoPrincipal = a.fotos[0] || null;
+  if (a.status === "ativo") finais.push(a);
 }
 
 // fonte que falhou hoje: mantém os anúncios dela de antes (até 10 dias sem ver)
