@@ -1,5 +1,5 @@
 {
-  "_como_usar": "Para ativar um parceiro, copie o bloco de _modelo_parceiro para dentro de 'parceiros', preencha e troque ativo para true. 'posicoes' pode ter 'lista' (cartão entre os imóveis) e/ou 'rodape' (faixa acima do rodapé). Para destacar um imóvel, coloque o id dele em 'destaques' (o id aparece no fim do link do anúncio no Firestore/GitHub, ex.: facebook-marketplace-1566032291592420 ou clovia-ap0012-clov). validoAte no formato AAAA-MM-DD; depois dessa data o anúncio sai sozinho.",
+  "_como_usar": "Para ativar um parceiro, copie o bloco de _modelo_parceiro para dentro de 'parceiros', preencha e troque ativo para true. 'posicoes' pode ter 'lista' (cartão entre os imóveis) e/ou 'rodape' (faixa acima do rodapé). Para destacar um imóvel, coloque o id dele em 'destaques' (o id aparece no fim do link do anúncio no Firestore/GitHub, ex.: facebook-marketplace-1566032291592420 ou clovia-ap0012-clov). validoAte no formato AAAA-MM-DD; depois dessa data o anúncio sai sozinho. Para tirar um anúncio do ar (pedido de remoção, denúncia, golpe), coloque o id dele em 'removidos' — ele some do site em poucos minutos.",
   "_modelo_parceiro": {
     "ativo": false,
     "nome": "Nome da empresa",
@@ -8,10 +8,17 @@
     "link": "https://site-da-empresa.com.br",
     "whatsapp": "",
     "cta": "Conhecer",
-    "posicoes": ["lista", "rodape"],
+    "posicoes": [
+      "lista",
+      "rodape"
+    ],
     "validoAte": "2026-12-31"
   },
-  "_modelo_destaque": { "id": "facebook-marketplace-0000000000", "validoAte": "2026-12-31" },
+  "_modelo_destaque": {
+    "id": "facebook-marketplace-0000000000",
+    "validoAte": "2026-12-31"
+  },
   "parceiros": [],
-  "destaques": []
+  "destaques": [],
+  "removidos": []
 }
