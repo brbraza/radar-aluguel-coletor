@@ -179,13 +179,17 @@ function interpretar(c, fonte) {
   let bairro = null;
   const mUrl = c.url.match(/teixeira-de-freitas-ba\/([^/]+)\//); // Kelly Lima / Renata Barbosa
   if (mUrl) bairro = titleCase(mUrl[1].replace(/-/g, " "));
-  const mKenlo = c.texto.match(/([A-Za-zÀ-ú .]{3,40}) - Teixeira de Freitas - BA/i);
+  const mKenlo = (c.titulo || "").match(/^(?:cond\.?\s+)?(.{3,40}?) - Teixeira de Freitas/i);
   if (!bairro && mKenlo) bairro = titleCase(mKenlo[1]);
   const mZap = (c.titulo || "").match(/,\s*([^,]{3,40}),\s*Teixeira de Freitas/i);
   if (!bairro && mZap) bairro = titleCase(mZap[1]);
   bairro = detectarBairro(bairro || "", c.titulo) || bairro;
 
   let titulo = c.titulo;
+  const Tipo = /kitnet|kitinete/.test(n) ? "Kitnet" : tipo === "casa" ? "Casa" : "Apartamento";
+  if (/ - Teixeira de Freitas - BA$/i.test(titulo || "") && bairro) {
+    titulo = `${Tipo}${quartos ? ` com ${quartos} ${quartos > 1 ? "quartos" : "quarto"}` : ""} para alugar – ${bairro}`;
+  }
   if (!titulo || titulo.length < 25 || /^(casa|apartamento|kitinete?|kitnet|im[oó]vel)s?( para alugar)?$/i.test(titulo)) {
     const partes = new URL(c.url).pathname.split("/").filter(Boolean);
     const slug = partes.length >= 2 ? partes[partes.length - 2] : "";
