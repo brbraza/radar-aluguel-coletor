@@ -1,0 +1,7 @@
+{
+  "name": "radar-aluguel-coletor",
+  "private": true,
+  "type": "module",
+  "scripts": { "coletar": "node coletor.mjs" },
+  "dependencies": { "cheerio": "^1.0.0" }
+}
