@@ -1,6 +1,6 @@
 {
- "atualizadoEm": "2026-10-02T12:01:27.573Z",
- "total": 74,
+ "atualizadoEm": "2026-10-02T12:08:21.304Z",
+ "total": 20,
  "anuncios": [
   {
    "id": "clovia-ca0206-clov",
@@ -45,7 +45,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2xg785ozzMQpcYFAOWesDDd5qizuf618h2U+cLZ74T30sW6Xfb+59s07PfsOH2JlYtJa94YakYnV9BBQxHdfIi7ESNf+hmujUTmVJV3RTZe3As3y0td6QSjUoa+qWxr1DO-CM7ylymyHYDlIVFlQPlLCdkx8QdQ8Bi1SUxy8h8d4563vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwWNdAnqUckw-CSLJI7ky+k9HGhvStbhvVMQY9-LCWrKG1PPb2GKrsWWm+g5hGpM38apgMYKn1SEcVVWN2biId7FK4+OvGswCzIDnYuBAKChPH1Jw1.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -91,2037 +91,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu05ciYhp+jMSg81ceoCeuCiO96Wvv9vIikiIpo-57+vd3tzEGcf3lqM55uvWCX38l6x8TN4FMh9OfbVVQD-dQZeJLEFynSeO-GaVYaFmG0l19h1pvT5-+GaTdor82mE52xy5U6-ljQOuQLr6PUVlQPlLCdkx8QdQ8Bi1SUxy8h8d4563vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwWNdAnqUckw-CSLJI7ky+k9HGhvStbhvVMQY9-LCWrKG1PPb2GKrsWWm+g5hGpM38apgMYKn1SEcVVWN2biId7FK4+OvGswCzIDnYuBAKChPH1Jw1.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-718995",
-   "titulo": "Apartamento para alugar",
-   "descricao": "Apartamento disponível para locação no CENTRO!\\n\\n- 02 Quartos sociais;\\n- 01 Sala conjugada com cozinha;\\n- 01 Banheiro...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-disponivel-para-locacao-no-centro-/718995",
-    "anuncioId": "718995"
-   },
-   "preco": {
-    "aluguel": 650,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226060739331722606073802WhatsAppImage2024-07-16at09.53.301.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226060805771722606080502WhatsAppImage2024-07-16at09.53.261.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060784971722606078436WhatsAppImage2024-07-16at09.53.27.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060797851722606079708WhatsAppImage2024-07-16at09.53.262.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060753621722606075298WhatsAppImage2024-07-16at09.53.29.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060746791722606074615WhatsAppImage2024-07-16at09.53.30.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060814401722606081378WhatsAppImage2024-07-16at09.53.26.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226060823081722606082246WhatsAppImage2024-07-16at09.53.25.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724161621712772415929WhatsAppImage2024-04-10at11.12.001.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-838090",
-   "titulo": "Apartamento para alugar",
-   "descricao": "KITINET DISPONÍVEL PARA LOCAÇÃO \\n\\nMONTE CASTELO (próximo ao Posto dos 3 poderes)\\n750,00\\n\\nIncluso condomínio , IPTU,...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/kitinete/teixeira-de-freitas-ba/monte-castelo/kitinet-disponivel-para-locacao-no-monte-castelo-prox--ao-posto-tres-poderes/838090",
-    "anuncioId": "838090"
-   },
-   "preco": {
-    "aluguel": 750,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1752849674214whatsappimage2025-07-09at17.13.10.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849605909whatsappimage2025-07-09at17.13.13.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849607642whatsappimage2025-07-09at17.13.123.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849609458whatsappimage2025-07-09at17.13.122.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849604651whatsappimage2025-07-09at17.13.131.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849612727whatsappimage2025-07-09at17.13.12.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849610900whatsappimage2025-07-09at17.13.121.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849614065whatsappimage2025-07-09at17.13.112.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849615962whatsappimage2025-07-09at17.13.111.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849617265whatsappimage2025-07-09at17.13.11.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849618586whatsappimage2025-07-09at17.13.101.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-686192",
-   "titulo": "Apartamento para alugar",
-   "descricao": "ALUGA-SE KIT NET NO BAIRRO VILA CARAÍPE, TEIXEIRA DE FREITAS-BA, COMPOSTA POR 01 SUÍTE, SALA CONJUGADA COM COZINHA, ÁREA...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/kitinete/teixeira-de-freitas-ba/vila-caraipe/kitnet-no-fundo-do-hospital-costa-das-baleias--teixeira-de-freitas---ba/686192",
-    "anuncioId": "686192"
-   },
-   "preco": {
-    "aluguel": 800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Vila Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1715806419835171580641959304.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1715806421150171580642091505.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878377821743087837498whatsappimage2025-03-27at12.00.52.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878394811743087839279whatsappimage2025-03-27at12.00.51.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878412891743087841064whatsappimage2025-03-27at12.00.481.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878437731743087843571whatsappimage2025-03-27at12.00.48.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878457031743087845476whatsappimage2025-03-27at12.00.472.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878476341743087847420whatsappimage2025-03-27at12.00.471.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878500531743087849828whatsappimage2025-03-27at12.00.47.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849674214whatsappimage2025-07-09at17.13.10.jpeg"
-   ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-663578",
-   "titulo": "Casa para alugar",
-   "descricao": "Casa mobiliada disponível para locação no bairro Rosa Luxemburgo!!\\n\\n2 Quartos\\n01 Suíte \\n01 Banheiro social\\n01 Sala\\...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/rosa-de-luxemburgo/excelente-imovel-mobiliado-no-bairro-rosa-de-luxemburgo/663578",
-    "anuncioId": "663578"
-   },
-   "preco": {
-    "aluguel": 850,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Rosa de Luxemburgo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1710529080888171052908058101.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529082896171052908264902.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529083900171052908362303.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529084874171052908461804.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529085864171052908559405.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529086795171052908653406.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529087730171052908746307.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529090668171052909041508.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/171052908188817105290816011.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529091652171052909137709.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1710529092545171052909228910.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-751131",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO LIBERDADE I\\n • 01 Sala integrada com cozinha\\n • 02 Quartos sociais\\n • 01 Suí...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/liberdade/imovel-disponivel-para-locacao-no-bairro-liberdade-i/751131",
-    "anuncioId": "751131"
-   },
-   "preco": {
-    "aluguel": 900,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Liberdade",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17383273388281738327338784imagem1.jpg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17383273379701738327337918imagem2.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273361301738327336079imagem4.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273370741738327337016imagem3.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273351461738327335101imagem5.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273306701738327330618imagem10.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273315661738327331479imagem9.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273324591738327332419imagem8.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17383273333591738327333307imagem7.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-673609",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO TÉRREO DISPONÍVEL PARA LOCAÇÃO NO BAIRRO NOVA TEIXEIRA\\n\\n01 Sala conjugada com cozinha, com armários planej...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/nova-teixeira/apartamento-terreo-disponivel-para-locacao-no-bairro-nova-teixeira/673609",
-    "anuncioId": "673609"
-   },
-   "preco": {
-    "aluguel": 950,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Nova Teixeira",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17127724161621712772415929WhatsAppImage2024-04-10at11.12.001.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17127724143621712772414132WhatsAppImage2024-04-10at11.12.011.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724170371712772416827WhatsAppImage2024-04-10at11.12.00.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724152231712772415011WhatsAppImage2024-04-10at11.12.01.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724123881712772412165WhatsAppImage2024-04-10at11.12.02.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724032141712772402949WhatsAppImage2024-04-10at11.12.031.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724094711712772409230WhatsAppImage2024-04-10at11.12.03.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724102981712772410083WhatsAppImage2024-04-10at11.12.022.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17127724112321712772411018WhatsAppImage2024-04-10at11.12.021.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-753309",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO JARDIM CARAÍPE\\n\\nComposto por: \\n03 Salas\\n01 Cozinha\\n03 Quartos\\n01 Banheiro...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/jardim-caraipe/imovel-disponivel-para-locacao-no-bairro-jardim-caraipe/753309",
-    "anuncioId": "753309"
-   },
-   "preco": {
-    "aluguel": 1000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Jardim Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17310927295361731092729197whatsappimage2024-11-08at15.33.032.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17310927212991731092720384whatsappimage2024-11-08at15.33.041.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927224751731092722148whatsappimage2024-11-08at15.33.04.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927276611731092727346whatsappimage2024-11-08at15.33.033.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927312111731092730898whatsappimage2024-11-08at15.33.031.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927326341731092732296whatsappimage2024-11-08at15.33.03.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927341211731092733808whatsappimage2024-11-08at15.33.023.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17310927361821731092735854whatsappimage2024-11-08at15.33.022.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-508005",
-   "titulo": "Casa para alugar",
-   "descricao": "01 SALA DE TV\\n01 SALA DE JANTAR \\n03 QUARTOS SOCIAIS \\n01 BANHEIRO \\n01 COZINHA COM PIA \\nÁREA DE SERVIÇO \\nGARAGEM COB...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/monte-castelo/casa-para-locacao--monte-castelo--teixeira-de-freitas---ba/508005",
-    "anuncioId": "508005"
-   },
-   "preco": {
-    "aluguel": 1000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1680531349974168053134955701.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1680531361041168053136075902.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1680531687056168053168676503.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16805313687921680531368505003.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1680531383410168053138311105.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16805313990151680531398692COZINHA01.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16805314023761680531402120COZINHA.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16805314166351680531416372QUARTOFUNDO02.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-779038",
-   "titulo": "Apartamento para alugar",
-   "descricao": "KITNET PARA LOCAÇÃO PRÓXIMO A LE BISCUIT\\n\\nImóvel composto por: \\n01 Varanda;\\n01 Sala de Star;\\n01 Cozinha e Lavander...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/kitnet-para-locacao-proximo-a-le-biscuit--no-centro-de-teixeira-de-freitas-ba/779038",
-    "anuncioId": "779038"
-   },
-   "preco": {
-    "aluguel": 1000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17386928582831738692858076whatsappimage2025-02-03at11.08.21.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17386928592021738692859006whatsappimage2025-02-03at11.08.203.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928600731738692859954whatsappimage2025-02-03at11.08.202.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928610021738692860874whatsappimage2025-02-03at11.08.201.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928617981738692861668whatsappimage2025-02-03at11.08.20.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928626341738692862511whatsappimage2025-02-03at11.08.192.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928634861738692863363whatsappimage2025-02-03at11.08.191.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928643251738692864205whatsappimage2025-02-03at11.08.19.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386928652561738692865139whatsappimage2025-02-03at11.08.181.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-760021",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL PARA LOCAÇÃO NO BAIRRO VILA VARGAS\\nComposto por\\n• 02 Quartos Sociais;\\n• 01 Sala de TV; \\n• 01 Sala de Jantar;\\...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/vila-vargas/imovel-para-locacao-no-bairro-vila-vargas--em-teixeira-de-freitas-ba/760021",
-    "anuncioId": "760021"
-   },
-   "preco": {
-    "aluguel": 1000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Vila Vargas",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17332517725221733251772469whatsappimage2024-12-03at15.42.48.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17332517718581733251771805whatsappimage2024-12-03at15.42.49.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517661121733251765991whatsappimage2024-12-03at15.44.152.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517667411733251766677whatsappimage2024-12-03at15.44.151.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517674041733251767341whatsappimage2024-12-03at15.44.15.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517680211733251767960whatsappimage2024-12-03at15.44.143.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517686251733251768563whatsappimage2024-12-03at15.44.142.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17332517692361733251769168whatsappimage2024-12-03at15.44.141.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-762122",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO PRÓXIMO AO BANCO CAIXA ECONÔMICA\\n\\nComposto por:\\n01 Sala\\n01 Cozinha;\\n02 Quartos;\\n01 Banhei...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-proximo-ao-banco-caixa-economica/762122",
-    "anuncioId": "762122"
-   },
-   "preco": {
-    "aluguel": 1000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17338621957521733862195580whatsappimage2024-12-09at16.00.112.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17338621914381733862191264whatsappimage2024-12-09at16.00.124.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621925001733862192317whatsappimage2024-12-09at16.00.123.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621932891733862193134whatsappimage2024-12-09at16.00.122.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621941361733862193961whatsappimage2024-12-09at16.00.121.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621949511733862194790whatsappimage2024-12-09at16.00.12.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621966251733862196460whatsappimage2024-12-09at16.00.111.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338621974271733862197260whatsappimage2024-12-09at16.00.11.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094641681730309463858WhatsAppImage2024-10-17at11.10.302.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-372866",
-   "titulo": "Casa para alugar",
-   "descricao": "ALUGA-SE APARTAMENTO NO BAIRRO SANTA RITA\\n\\n01 Suíte;\\n01 Quarto Social;\\n01 Banheiro Social;\\n01 Cozinha com armários ...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/santa-rita/casa-para-locacao--santa-rita--teixeira-de-freitas---ba/372866",
-    "anuncioId": "372866"
-   },
-   "preco": {
-    "aluguel": 1050,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Santa Rita",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/16366346680621636634667910dsdasdas.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/16366346909881636634690832582cddd7-d2f8-4ea0-a8c5-d5b2378f2fcf.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16366346919851636634691817b93376f3-87fb-4808-91c0-ad5387f2c00b.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16366346929961636634692850d4194378-4027-4fb8-b835-6d36c0c2b4be.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16366346938981636634693756dd4a23b3-1fd1-4073-a62c-e04679ab11e0.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1636635063722163663506355030669b39-f0a3-4da6-a7db-2e953aacc938.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16366350650391636635064893c5eb9f7f-9aa5-4a0e-8f67-5a6750898eba.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1636635074909163663507475101a64be4-2650-42d1-9036-654247b83468.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-778143",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO DISPONÍVEL PARA LOCAÇÃO PRÓXIMO A PITUBA\\n • Sala grande\\n • Cozinha\\n • 02 Quartos sociais\\n • 01 Banheiro ...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/pituba/apartamento-disponivel-para-locacao-proximo-a-pituba---em-teixeira-de-freitas-ba/778143",
-    "anuncioId": "778143"
-   },
-   "preco": {
-    "aluguel": 1100,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Pituba",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17383494595391738349459380whatsappimage2025-01-31at15.36.36.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17383494552051738349455060whatsappimage2025-01-31at15.36.38.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494563541738349456200whatsappimage2025-01-31at15.36.371.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494437521738349443609whatsappimage2025-01-31at15.36.431.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494447381738349444602whatsappimage2025-01-31at15.36.43.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494404001738349440184whatsappimage2025-01-31at15.36.45.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494425961738349442448whatsappimage2025-01-31at15.36.44.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494460731738349445917whatsappimage2025-01-31at15.36.42.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-722404",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO EIXO SUL\\n\\nImóvel composto por: \\n01 Sala \\n01 Cozinha;\\n01 Suíte;\\n01 Quarto ...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/eixo-sul/imovel-disponivel-para-locacao-no-bairro-eixo-sul/722404",
-    "anuncioId": "722404"
-   },
-   "preco": {
-    "aluguel": 1150,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Eixo Sul",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17231421354041723142135125WhatsAppImage2024-08-08at10.54.32.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17231421343211723142134055WhatsAppImage2024-08-08at10.54.321.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421321951723142131940WhatsAppImage2024-08-08at10.54.33.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421332911723142133025WhatsAppImage2024-08-08at10.54.322.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421292781723142128993WhatsAppImage2024-08-08at10.54.331.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421257981723142125463WhatsAppImage2024-08-08at10.54.333.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421269381723142126682WhatsAppImage2024-08-08at10.54.332.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17231421700001723142169733WhatsAppImage2024-08-08at10.54.343.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-798680",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO ESTÂNCIA BIQIUINE \\n\\nImóvel composto por: \\n01 Sala;\\n01 Cozinha;\\n01 Suíte;\\n...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/estancia-biquini/imovel-disponivel-para-locacao-no-bairro-estancia-biqiuine-em-teixeira-de-freitas-ba/798680",
-    "anuncioId": "798680"
-   },
-   "preco": {
-    "aluguel": 1200,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Estância Biquíni",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17430082472981743008247107whatsappimage2025-03-24at20.18.473.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082493341743008249194whatsappimage2025-03-24at20.18.472.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082507481743008250605whatsappimage2025-03-24at20.18.471.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082522071743008252068whatsappimage2025-03-24at20.18.47.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082538321743008253692whatsappimage2025-03-24at20.18.464.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082552101743008255048whatsappimage2025-03-24at20.18.463.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082568671743008256727whatsappimage2025-03-24at20.18.462.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082584981743008258356whatsappimage2025-03-24at20.18.461.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082601541743008259993whatsappimage2025-03-24at20.18.46.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082619061743008261752whatsappimage2025-03-24at20.18.454.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430082629281743008262783whatsappimage2025-03-24at20.18.453.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-404060",
-   "titulo": "Apartamento para alugar",
-   "descricao": "ALUGA-SE APARTAMENTO SEMIMOBILIADO NO CONDOMÍNIO PLAZA VILE\\nTérreo\\nComposto por:\\n1 Quarto \\n1 Sala\\n1 Cozinha com arm...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/vila-caraipe/aluga-se-apartamento-no-condominio-plaza-vile/404060",
-    "anuncioId": "404060"
-   },
-   "preco": {
-    "aluguel": 1200,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Vila Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17243584441131724358443761WhatsAppImage2024-08-20at17.36.03.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17243584566931724358456434WhatsAppImage2024-08-20at17.36.052.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584582881724358457523WhatsAppImage2024-08-20at17.36.051.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584599651724358459665WhatsAppImage2024-08-20at17.36.05.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584611701724358460835WhatsAppImage2024-08-20at17.36.042.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584625991724358462304WhatsAppImage2024-08-20at17.36.041.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584638871724358463523WhatsAppImage2024-08-20at17.36.04.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584656501724358465068WhatsAppImage2024-08-20at17.36.031.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17383494595391738349459380whatsappimage2025-01-31at15.36.36.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-359863",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO VILA CARAÍPE\\n\\nImóvel composto por: \\n01 Sala;\\n01 Cozinha com Sala de jantar;...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/vila-caraipe/casa-com-3-dormitorios-para-locacao--vila-caraipe--teixeira-de-freitas---ba/359863",
-    "anuncioId": "359863"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Vila Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1632406379560163240637939401.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1632406380848163240638070703.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063828021632406382655AREADESERVIAO01.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063842111632406384051banheiro01.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063855241632406385381COZINHA02.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063868481632406386702COZINHA03.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063880891632406387943JARDIM01.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/16324063894511632406389310QUARTO04.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-779042",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO CENTRO, PRÓXIMO A LE BISCUIT\\n\\nImóvel composto por: \\n01 Sala de Star;\\n01 Cozinha e Lavand...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro--proximo-a-le-biscuit--em-teixeira-de-freitas-ba/779042",
-    "anuncioId": "779042"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17386931143911738693114267whatsappimage2025-02-03at11.10.16.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931064061738693106286whatsappimage2025-02-03at11.10.191.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931073171738693107200whatsappimage2025-02-03at11.10.19.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931081361738693108013whatsappimage2025-02-03at11.10.182.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931098221738693109707whatsappimage2025-02-03at11.10.181.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931107811738693110656whatsappimage2025-02-03at11.10.18.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931117421738693111619whatsappimage2025-02-03at11.10.172.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931125771738693112459whatsappimage2025-02-03at11.10.171.jpeg"
-   ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-803805",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO BONADIMAN \\n\\nIMOVEL COMPOSTO POR: \\n- 01 Sala ampla;\\n- 01 Cozinha com armário...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/bonadiman/imovel-disponivel-para-locacao-no-bairro-bonadiman/803805",
-    "anuncioId": "803805"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bonadiman",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17442221834791744222183268whatsappimage2025-04-08at18.13.50.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221714311744222171225whatsappimage2025-04-08at18.13.532.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221729731744222172757whatsappimage2025-04-08at18.13.531.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221702951744222170080whatsappimage2025-04-08at18.13.54.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221690301744222168824whatsappimage2025-04-08at18.13.541.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221741461744222173942whatsappimage2025-04-08at18.13.53.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221674791744222167260whatsappimage2025-04-08at18.13.542.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221751661744222174944whatsappimage2025-04-08at18.13.522.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221824591744222182241whatsappimage2025-04-08at18.13.501.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221770201744222176815whatsappimage2025-04-08at18.13.521.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17442221782161744222178004whatsappimage2025-04-08at18.13.52.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-750401",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO CONDOMÍNIO PLAZA VILLE\\n\\n01 Quarto \\n01 Sala\\n01 Cozinha\\n01 Suíte \\n01 Banheiro\\n01 vaga g...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/plaza-ville/apartamento-para-locacao-no-condominio-plaza-ville/750401",
-    "anuncioId": "750401"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Plaza Ville",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17303094641681730309463858WhatsAppImage2024-10-17at11.10.302.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17303094588111730309457909WhatsAppImage2024-10-17at11.10.312.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094600841730309459773WhatsAppImage2024-10-17at11.10.311.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094613701730309461054WhatsAppImage2024-10-17at11.10.31.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094629001730309462576WhatsAppImage2024-10-17at11.10.303.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094655381730309465227WhatsAppImage2024-10-17at11.10.301.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094668481730309466502WhatsAppImage2024-10-17at11.10.30.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17303094681571730309467849WhatsAppImage2024-10-17at11.10.29.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-465127",
-   "titulo": "Casa para alugar",
-   "descricao": "ALUGA-SE CASA NO BAIRRO JARDIM BEIRA RIO\\n\\n01 Sala;\\n01 Cozinha com Armários planejados, fogão e coifa; \\n01 Suíte;\\n01...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/pesque-e-pague/aluga-se-casa-no-bairro-jardim-beira-rio/465127",
-    "anuncioId": "465127"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Pesque e Pague",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/166361476299216636147627129ed2ea6f-ed9f-451e-9db4-132bb1719003.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/166361475653116636147562393fd248f3-33f6-4953-a3ea-30686bcb74a6.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/166361475825716636147579758da390a8-6245-4ae6-8129-11f2201c036f.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1663614766813166361476653166c18ec3-8ce9-414d-8886-1c4d130036e1.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1663614765181166361476489038b8ee06-d5c4-488c-afb2-dfaa26feb64d.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/166361475976216636147594858dac3503-8624-40cb-88ab-c367df7f1f80.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/166361476137616636147610919b7c870a-d75b-4f42-ab0e-ae9e06bb8c06.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1663614768244166361476796782cb03f7-cc72-413d-abe6-e731f7e7f0f1.jpg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-762115",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO BAIRRO MONTE CASTELO\\nPróximo ao Espaço D\\n\\n01 Sala conjugada com cozinha\\n01 Suíte;\\n01 Qu...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/monte-castelo/apartamento-com-3-dormitorios-para-locacao--teixeira-de-freitas---ba/762115",
-    "anuncioId": "762115"
-   },
-   "preco": {
-    "aluguel": 1350,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17338617237941733861723673whatsappimage2024-12-09at15.27.382.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17338617247301733861724556whatsappimage2024-12-09at15.27.347.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617256851733861725570whatsappimage2024-12-09at15.27.346.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617265201733861726390whatsappimage2024-12-09at15.27.345.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617273501733861727218whatsappimage2024-12-09at15.27.344.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617281571733861728037whatsappimage2024-12-09at15.27.334.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617289521733861728831whatsappimage2024-12-09at15.27.333.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17338617297111733861729583whatsappimage2024-12-09at15.27.323.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-682318",
-   "titulo": "Apartamento para alugar",
-   "descricao": "ALUGA-SE APARTAMENTO NO BAIRRO MONTE CASTELO, PROX AO ESPAÇO D\\n\\n01 Sala conjugada com cozinha\\n01 Suíte;\\n01 Quarto;\\n...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/monte-castelo/imovel-disponivel-para-locacao-no-monte-castelo--prox-ao-espaco-d/682318",
-    "anuncioId": "682318"
-   },
-   "preco": {
-    "aluguel": 1350,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1714761692977171476169268801.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1714761694177171476169389102.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1714761695114171476169482303.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1714761696211171476169588704.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1714761697214171476169689905.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1714761698239171476169791206.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1714761699689171476169939707.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17243584441131724358443761WhatsAppImage2024-08-20at17.36.03.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-776277",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL PARA LOCAÇÃO NO BAIRRO NOVO JERUSALEM\\n\\nComposto por:\\n02 SALAS\\n01 COZINHA com armários planejados conjugada co...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/nova-jerusalem/imovel--para-locacao-no-bairro-novo-jerusalem--proximo-a-faculdade/776277",
-    "anuncioId": "776277"
-   },
-   "preco": {
-    "aluguel": 1400,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Nova Jerusalém",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17380001193831738000119167whatsappimage2025-01-22at10.32.57.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17380001045451738000104337whatsappimage2025-01-22at10.33.03.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001021901738000101938whatsappimage2025-01-22at10.33.041.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001034591738000103246whatsappimage2025-01-22at10.33.04.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001055701738000105361whatsappimage2025-01-22at10.33.021.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001067111738000106510whatsappimage2025-01-22at10.33.02.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001079391738000107733whatsappimage2025-01-22at10.33.012.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380001091001738000108884whatsappimage2025-01-22at10.33.011.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-734650",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO, NO MONTE CASTELO, PRÓXIMO DO COLÉGIO CASTELO FORTE\\n\\nImóvel composto por: \\n01 Sala;\\n01 Cozi...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/monte-castelo/apartamento-para-locacao--no-monte-castelo--proximo-do-colegio-castelo-forte/734650",
-    "anuncioId": "734650"
-   },
-   "preco": {
-    "aluguel": 1400,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17265940706991726594070428WhatsAppImage2024-09-10at15.26.53.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17265940695831726594069308WhatsAppImage2024-09-10at15.26.531.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942107821726594210482WhatsAppImage2024-09-10at15.26.551.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942133951726594213117WhatsAppImage2024-09-10at15.26.55.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942159261726594215566WhatsAppImage2024-09-10at15.26.543.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942170791726594216771WhatsAppImage2024-09-10at15.26.542.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942180701726594217820WhatsAppImage2024-09-10at15.26.541.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942193221726594219055WhatsAppImage2024-09-10at15.26.54.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265942203971726594220134WhatsAppImage2024-09-10at15.26.532.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-758941",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO BELA VISTA\\n\\nImóvel composto por: \\n03 quartos sendo uma suíte \\n01 banheiro social\\nSala e...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/bela-vista/apartamento-para-locacao-no-bairro-bela-vista--em-teixeira-de-freitas-ba/758941",
-    "anuncioId": "758941"
-   },
-   "preco": {
-    "aluguel": 1480,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bela Vista",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17328898556171732889855390whatsappimage2024-11-14at11.43.063.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17328898568001732889856592whatsappimage2024-11-14at11.43.062.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898598921732889859688whatsappimage2024-11-14at11.43.06.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898612061732889860988whatsappimage2024-11-14at11.43.053.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898624461732889862241whatsappimage2024-11-14at11.43.052.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898636531732889863429whatsappimage2024-11-14at11.43.051.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898659911732889865790whatsappimage2024-11-14at11.43.05.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898676411732889867424whatsappimage2024-11-14at11.43.044.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17328898688531732889868655whatsappimage2024-11-14at11.43.043.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-779050",
-   "titulo": "Casa para alugar",
-   "descricao": "CASA MOBILIADA PARA LOCAÇÃO NO BAIRRO ESTÂNCIA BIQUÍNI\\n\\nComposta por:\\n\\n* 01 Garagem\\n* 01 Sala: 01 sofá, 01 painel d...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/estancia-biquini/casa-mobiliada-no-estancia-biquini--disponivel-para-locacao/779050",
-    "anuncioId": "779050"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Estância Biquíni",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17386937748911738693774695whatsappimage2025-02-03at15.54.43.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17386937311531738693729960whatsappimage2025-02-03at15.54.57.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937346331738693733427whatsappimage2025-02-03at15.54.56.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937388521738693737460whatsappimage2025-02-03at15.54.55.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937422861738693740780whatsappimage2025-02-03at15.54.54.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937451751738693743859whatsappimage2025-02-03at15.54.53.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937500291738693748424whatsappimage2025-02-03at15.54.52.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386937531801738693752082whatsappimage2025-02-03at15.54.51.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-755708",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO BAIRRO SANTA RITA\\n\\nComposto por: \\n01 Sala de Star;\\n01 Cozinha;\\n01 suíte com closet;\\n01...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/santa-rita/apartamento-para-locacao-no-bairro-santa-rita/755708",
-    "anuncioId": "755708"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Santa Rita",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17319627212441731962720944whatsappimage2024-11-18at17.18.41.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17319627200891731962719801whatsappimage2024-11-18at17.18.411.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627099731731962708172whatsappimage2024-11-18at17.18.433.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627112141731962710880whatsappimage2024-11-18at17.18.432.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627127031731962712401whatsappimage2024-11-18at17.18.431.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627140581731962713764whatsappimage2024-11-18at17.18.43.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627152411731962714935whatsappimage2024-11-18at17.18.423.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17319627165221731962716234whatsappimage2024-11-18at17.18.422.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-689502",
-   "titulo": "Apartamento para alugar",
-   "descricao": "ALUGA-SE APARTAMENTO NO CENTRO, LATERAL DA CAIXA ECONÔMICA \\n3° andar\\n\\nSala\\nCozinha \\n01 Suíte \\n02 Quartos Sociais \\...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro-de-teixeira-de-freitas--ao-lado-da-caixa/689502",
-    "anuncioId": "689502"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1716916936191171691693510001.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916938336171691693807702.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916939694171691693941703.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916942065171691694180204.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916943415171691694312705.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916945028171691694476906.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916946971171691694669307.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916948485171691694821908.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916949896171691694961809.jpg"
-   ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-776287",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL PARA LOCAÇÃO NO BAIRRO KAIKAN SUL\\n\\n• 01 SALA AMPLA COM PAINEL DE TV;\\n• 01 SUITE\\n• 02 QUARTOS SOCIAIS;\\n• 01 B...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/kaikan-sul/imovel-para-locacao-no-bairro-kaikan-sul--em-teixeira-de-freitas-bahia/776287",
-    "anuncioId": "776287"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Kaikan Sul",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17380011543291738001154174whatsappimage2025-01-21at16.07.17.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17380011553071738001155161whatsappimage2025-01-21at16.07.163.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011563501738001156200whatsappimage2025-01-21at16.07.162.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011573941738001157223whatsappimage2025-01-21at16.07.161.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011585371738001158349whatsappimage2025-01-21at16.07.16.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011595581738001159406whatsappimage2025-01-21at16.07.152.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011606141738001160457whatsappimage2025-01-21at16.07.151.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17380011618601738001161675whatsappimage2025-01-21at16.07.15.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-815987",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO PLAZA VILE\\n\\n2 andar - Edifício MOLINA\\n\\nComposto por:\\n01 Suíte;\\n01 Quarto Social;\\n01 B...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/plaza-ville/apartamento-para-locacao--plaza-ville--teixeira-de-freitas---ba/815987",
-    "anuncioId": "815987"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Plaza Ville",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17478601287701747860127265whatsappimage2025-05-19at17.01.52.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478600970711747860095726whatsappimage2025-05-19at17.01.542.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478601253921747860123668whatsappimage2025-05-19at17.01.521.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478601152951747860113930whatsappimage2025-05-19at17.01.531.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478600910651747860089655whatsappimage2025-05-19at17.01.571.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478600942411747860092766whatsappimage2025-05-19at17.01.57.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478600999681747860098500whatsappimage2025-05-19at17.01.541.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478601033351747860101989whatsappimage2025-05-19at17.01.54.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478601062361747860104905whatsappimage2025-05-19at17.01.534.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478601090721747860107718whatsappimage2025-05-19at17.01.533.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17478600748581747860073284whatsappimage2025-05-19at17.02.142.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-806929",
-   "titulo": "Casa para alugar",
-   "descricao": "ALUGA-SE CASA NO BAIRRO VILA CARAIPE\\n\\n02 Salas\\n \\n01 Cozinha grande\\n\\n03 Quartos \\n\\n01 Banheiro Social;\\n\\n01 Lavan...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/vila-caraipe/aluga-se-casa-no-bairro-vila-caraipe/806929",
-    "anuncioId": "806929"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Vila Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17454122654311745412263997whatsappimage2025-04-23at09.31.211.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122678761745412266468whatsappimage2025-04-23at09.34.56.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122702591745412268889whatsappimage2025-04-23at09.34.553.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122726641745412271324whatsappimage2025-04-23at09.34.552.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122749241745412273578whatsappimage2025-04-23at09.34.551.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122773131745412275964whatsappimage2025-04-23at09.34.55.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122796551745412278299whatsappimage2025-04-23at09.34.541.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122819551745412280603whatsappimage2025-04-23at09.34.54.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122843481745412282997whatsappimage2025-04-23at09.31.33.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122867761745412285435whatsappimage2025-04-23at09.31.31.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17454122891531745412287806whatsappimage2025-04-23at09.31.25.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-734639",
-   "titulo": "Casa para alugar",
-   "descricao": "EXCELENTE IMÓVEL PARA LOCAÇÃO NO BAIRRO ESTÂNCIA BIQUINI\\n\\nComposto por: \\n01 Sala ampla; \\n01 Cozinha;\\n01 Suíte;\\n01 ...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/estancia-biquini/excelente-imovel-para-locacao-no-bairro-estancia-biquini--em-teixeira-de-freitas/734639",
-    "anuncioId": "734639"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Estância Biquíni",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17265934376131726593435948WhatsAppImage2024-09-14at13.13.22.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17265934274471726593425590WhatsAppImage2024-09-14at13.13.24.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934310581726593429436WhatsAppImage2024-09-14at13.13.231.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934348081726593433190WhatsAppImage2024-09-14at13.13.23.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934769271726593476750WhatsAppImage2024-09-14at13.13.241.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934617051726593460028WhatsAppImage2024-09-14at13.13.26.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934644641726593462808WhatsAppImage2024-09-14at13.13.252.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17265934671571726593465522WhatsAppImage2024-09-14at13.13.251.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-786731",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO SEMI-MOBILIADO PARA LOCAÇÃO NO PLAZA VILLE\\n3º andar - Edifício LAGUNA\\n\\nComposto por:\\n01 Suíte;\\n01 Quart...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/plaza-ville/apartamento-semi-mobiliado-para-locacao-no-plaza-ville/786731",
-    "anuncioId": "786731"
-   },
-   "preco": {
-    "aluguel": 1500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Plaza Ville",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17405955741861740595572163whatsappimage2025-02-26at12.46.59.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17405955710091740595569374whatsappimage2025-02-26at12.47.00.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955385611740595536180whatsappimage2025-02-26at12.47.13.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955414041740595539538whatsappimage2025-02-26at12.47.121.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955449291740595543479whatsappimage2025-02-26at12.47.12.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955473721740595545916whatsappimage2025-02-26at12.47.11.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955497081740595548277whatsappimage2025-02-26at12.47.10.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955521331740595550700whatsappimage2025-02-26at12.47.09.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405955549111740595553088whatsappimage2025-02-26at12.47.081.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-806052",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL DISPONÍVEL PARA LOCAÇÃO NO BAIRRO MONTE CASTELO\\nIMÓVEL COMPOSTO POR: \\n- 01 sala de Tv; \\n- 01 Cozinha com banca...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/monte-castelo/movel-disponivel-para-locacao-no-bairro-monte-castelo-em-teixeira-de-freitas-ba/806052",
-    "anuncioId": "806052"
-   },
-   "preco": {
-    "aluguel": 1550,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17448924494531744892449251whatsappimage2025-04-15at12.06.44.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924324671744892432271whatsappimage2025-04-15at12.06.473.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924334271744892433216whatsappimage2025-04-15at12.06.472.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924343361744892434139whatsappimage2025-04-15at12.06.471.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924304451744892430228whatsappimage2025-04-15at12.06.481.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924354261744892435217whatsappimage2025-04-15at12.06.47.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924364221744892436225whatsappimage2025-04-15at12.06.463.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924373901744892437180whatsappimage2025-04-15at12.06.462.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924384471744892438255whatsappimage2025-04-15at12.06.461.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924395141744892439310whatsappimage2025-04-15at12.06.46.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17448924405971744892440403whatsappimage2025-04-15at12.06.454.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-786751",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO SEMI-MOBILIADO PARA LOCAÇÃO NO PLAZA VILE \\n2 andar - Edifício LAGUNA\\n\\nComposto por:\\n01 Suíte com ar cond...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/plaza-ville/apartamento-semi-mobiliado-para-locacao-no-plaza-vile-em-teixeira-de-freitas-ba/786751",
-    "anuncioId": "786751"
-   },
-   "preco": {
-    "aluguel": 1600,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Plaza Ville",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17405969375361740596936105whatsappimage2025-02-26at12.50.56.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17405969352191740596933876whatsappimage2025-02-26at12.50.57.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969140331740596912657whatsappimage2025-02-26at12.51.06.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969162001740596914853whatsappimage2025-02-26at12.51.05.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969185241740596917195whatsappimage2025-02-26at12.51.04.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969212571740596919915whatsappimage2025-02-26at12.51.03.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969234721740596922117whatsappimage2025-02-26at12.51.02.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969256691740596924301whatsappimage2025-02-26at12.51.012.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17405969281131740596926751whatsappimage2025-02-26at12.51.011.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-719020",
-   "titulo": "Apartamento para alugar",
-   "descricao": "Apartamento disponível para Locação no Bairro: Jardim Caraípe \\nPróximo ao hospital Costa das baleias\\n\\nImóvel composto...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/jardim-caraipe/apartamento-com-3-dormitorios-para-locacao--teixeira-de-freitas---ba/719020",
-    "anuncioId": "719020"
-   },
-   "preco": {
-    "aluguel": 1600,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Jardim Caraípe",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 3,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226082819411722608281674WhatsAppImage2024-06-27at12.17.28.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226082558031722608255547WhatsAppImage2024-06-27at12.17.312.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082518141722608251490WhatsAppImage2024-06-27at12.17.322.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082528271722608252572WhatsAppImage2024-06-27at12.17.321.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082548311722608254586WhatsAppImage2024-06-27at12.17.313.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082537651722608253515WhatsAppImage2024-06-27at12.17.32.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082575171722608257269WhatsAppImage2024-06-27at12.17.311.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226082587371722608258488WhatsAppImage2024-06-27at12.17.31.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-894798",
-   "titulo": "Casa para alugar",
-   "descricao": "...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/jardim-beira-rio/casa-para-locacao--jardim-beira-rio--teixeira-de-freitas---ba/894798",
-    "anuncioId": "894798"
-   },
-   "preco": {
-    "aluguel": 1700,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Jardim Beira Rio",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939036792img_15101.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939043294img_1514.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939041667img_1515.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939022733img_1527.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939024350img_1529.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939031106img_1531.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939028647img_1535.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939035002img_1521.png",
-    "https://si9dados3.com.br/fotos/kellylima/1764939040096img_1519.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-719033",
-   "titulo": "Casa para alugar",
-   "descricao": "CASA DISPONÍVEL PARA LOCAÇÃO NO MONT SERRAT II\\n\\n01 Sala;\\n01 Cozinha com Armário;\\n01 Suíte;\\n01 Quarto;\\n01 Banheiro ...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/mont-serrat-2/casa-disponivel-para-locacao-no-mont-serrat-ii/719033",
-    "anuncioId": "719033"
-   },
-   "preco": {
-    "aluguel": 1800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Mont Serrat",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 1,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226096790071722609678802WhatsAppImage2024-07-12at15.07.20.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226096770161722609676815WhatsAppImage2024-07-12at15.07.211.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096760831722609675881WhatsAppImage2024-07-12at15.07.212.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096733751722609673130WhatsAppImage2024-07-12at15.07.22.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096637901722609663591WhatsAppImage2024-07-12at15.07.251.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096685521722609668361WhatsAppImage2024-07-12at15.07.24.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096647281722609664538WhatsAppImage2024-07-12at15.07.25.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17226096657831722609665591WhatsAppImage2024-07-12at15.07.243.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-750302",
-   "titulo": "Casa para alugar",
-   "descricao": "Imóvel para locação no bairro Bela Vista\\n\\n02 Salas; \\n01 Cozinha;\\n01 Suíte com closet;\\n02 Quarto social;\\n01 Banheir...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/bela-vista/imovel-para-locacao-no-bairro-bela-vista--em-teixeira-de-freitas-ba/750302",
-    "anuncioId": "750302"
-   },
-   "preco": {
-    "aluguel": 1800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bela Vista",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17302978214531730297821233WhatsAppImage2024-10-20at14.34.001.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17302978162041730297815947WhatsAppImage2024-10-20at14.34.022.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978200201730297819799WhatsAppImage2024-10-20at14.34.01.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978187921730297818558WhatsAppImage2024-10-20at14.34.02.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978173361730297817122WhatsAppImage2024-10-20at14.34.021.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978635431730297863295WhatsAppImage2024-10-20at14.34.111.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978648231730297864602WhatsAppImage2024-10-20at14.34.11.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17302978661501730297865940WhatsAppImage2024-10-20at14.34.101.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-782543",
-   "titulo": "Apartamento para alugar",
-   "descricao": "APARTAMENTO DISPONÍVEL PARA LOCAÇÃO NO BAIRRO BELA VISTA\\n\\nComposto por:\\n 01 Varanda;\\n01 Sala de estar e Tv em L;\\n01...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/bela-vista/apartamento-disponivel-para-locacao-no-bairro-bela-vista/782543",
-    "anuncioId": "782543"
-   },
-   "preco": {
-    "aluguel": 1800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bela Vista",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17395377052131739537703846whatsappimage2025-02-05at09.15.31.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17395376945871739537693193whatsappimage2025-02-05at09.15.33.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395377099261739537708574whatsappimage2025-02-05at09.15.29.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395377076671739537706283whatsappimage2025-02-05at09.15.30.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395376849241739537683522whatsappimage2025-02-05at09.15.37.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395376922321739537690826whatsappimage2025-02-05at09.15.331.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395376871661739537685831whatsappimage2025-02-05at09.15.36.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395377126681739537711337whatsappimage2025-02-05at09.15.281.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-731224",
-   "titulo": "Casa para alugar",
-   "descricao": "ALUGA-SE CASA TÉRREA EM CONDOMÍNIO NO BAIRRO BELA VISTA \\n\\n01 Sala de TV;\\n01 Sala de Jantar;\\n03 Suítes ;\\nÁrea de ser...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/bela-vista/aluga-se-casa-terrea-em-condominio-no-bairro-bela-vista/731224",
-    "anuncioId": "731224"
-   },
-   "preco": {
-    "aluguel": 1800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bela Vista",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17254775902981725477590040WhatsAppImage2024-09-03at16.20.46.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17254775892451725477588915WhatsAppImage2024-09-03at16.20.49.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776110191725477610761WhatsAppImage2024-09-03at16.20.50.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776074801725477607188WhatsAppImage2024-09-03at16.20.511.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776084791725477608228WhatsAppImage2024-09-03at16.20.51.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776095301725477609259WhatsAppImage2024-09-03at16.20.501.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776393891725477639088WhatsAppImage2024-09-03at16.20.56.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776410361725477640762WhatsAppImage2024-09-03at16.20.551.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17254776426091725477642330WhatsAppImage2024-09-03at16.20.55.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-723496",
-   "titulo": "Apartamento para alugar",
-   "descricao": "Apartamento mobiliado disponível para locação no Bairro Recanto do Lago\\n\\nImóvel composto por: \\n 01 Sala de star conj...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/recanto-do-lago/apartamento-mobiliado-disponivel-para-locacao-no-bairro-recanto-do-lago--em-teixeira-de-freitas-ba/723496",
-    "anuncioId": "723496"
-   },
-   "preco": {
-    "aluguel": 2200,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Recanto do Lago",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17235603105041723560310234WhatsAppImage2024-08-12at15.54.311.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17235603116831723560311414WhatsAppImage2024-08-12at15.54.31.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603126801723560312437WhatsAppImage2024-08-12at15.54.302.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603154721723560315202WhatsAppImage2024-08-12at15.54.301.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603164421723560316198WhatsAppImage2024-08-12at15.54.30.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603666411723560366370WhatsAppImage2024-08-12at15.54.322.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603676101723560367368WhatsAppImage2024-08-12at15.54.321.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17235603687991723560368531WhatsAppImage2024-08-12at15.54.32.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-782521",
-   "titulo": "Casa para alugar",
-   "descricao": "IMÓVEL SEMI-MOBILIADO PARA LOCAÇÃO NO CONDOMÍNIO JARDIM DAS PALMEIRAS\\n\\nImóvel composto por: \\n01 Sala com sofá e paine...",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/jardim-das-palmeiras-condominio/imovel-semi-mobiliado-para-locacao-no-condominio-jardim-das-palmeiras/782521",
-    "anuncioId": "782521"
-   },
-   "preco": {
-    "aluguel": 2500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Jardim das Palmeiras",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null,
-    "mobiliado": true
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17395365992931739536597734whatsappimage2025-02-13at16.03.02.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png",
-    "https://si9dados3.com.br/fotos/kellylima/17395365969321739536595468whatsappimage2025-02-13at16.03.05.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395365899351739536588430whatsappimage2025-02-13at16.03.10.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395365923341739536590982whatsappimage2025-02-13at16.03.09.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395365947151739536593073whatsappimage2025-02-13at16.03.051.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395365875861739536586062whatsappimage2025-02-13at16.03.101.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395366295371739536628075whatsappimage2025-02-13at16.03.222.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17395366318411739536630484whatsappimage2025-02-13at16.03.221.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2166,7 +136,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2ZXy-tRxS84jNA6TrmdsAqqj7fJwdqQ9WrNw5WJnuPW697kZdXbyb0D8f7dCkGLsI5aa+sAIWdpYtB+QQHYBZ-eElpapze19kvOTuFaajp23gMdszFR7wGABcn22F4-hgavJq6G9BahU+XmI3V-TdZHR9o47l9MqBG1U1ByqR9Q9JGypDLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2211,7 +181,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtux9IysxnwSsulpsiArGzgCSwj9uN1-uEjEO-28PItIL22f3xBPvix4Qv4IfeMET87fdlS+x-NUdHIvVUflnmBpWJYCZ8oSuIvH-Ta+dKZ3Fe5AxqqDZI63WGfMiO73Ac3yS0Uajz8iSBToa8AGVaCvpHR9o47l9MqBG1U1ByqR9Q9JGypDLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2256,7 +226,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0U-1flJzUkHv+VGco60lhKO1Yq0yIvBkGOW2sPNkY-gzP3ea+by1dEF95HcK0Ke46k-VtJ8DktDQM5FbwHaA4XeBGpusheMnnzqQLltam1f2xAPry1rzQGDQ5Kp1QcA2ya7DNaCpi2FFvD6KAVfPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2301,7 +271,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0VtzO1JwApkqNU4ZpahpBmCxIDM7MyCgVSUp4rtvpr9+-LODOHZyKQH0ffhTlim4qNCa406DktoV9RQZj6yRZuBJCJIhQ6Pm0bJCpQfY3FKhh4QqA9233CcXMOAq0Eb+H2ED-DhhAS3fL3-GX5SEv5HR9o47l9MqBG1U1ByqR9Q9JGypDLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2346,52 +316,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2FqlYI1vRAXrJM0eoLku3Su7oOOvMyykV-O3oqKkpfq3PH8Ddnc47cegJTdC0S3nbA8HvAjFx19YMM-XyftboWDNUdpnhSt-GzmUaYDTUNi5SorqUt32nGCcZf21l8hiwu9O-j9rhyuUpD3MXtcFrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "clovia-ap0023-clov",
-   "titulo": "Centro - Teixeira de Freitas - BA",
-   "descricao": "Casa para Aluguel Centro | Teixeira de FreitasImóvel localizado no centro da cidade, na Avenida Presidente Getúlio Vargas, nº 2295, com ótima localização e fácil acesso aos principais pontos comerciais.A casa conta com:02 quartos01 suíte01 banheiro social02 salasCozinhaÁrea de serviço02 vagas de garagemValor do aluguel: R$ 3.000,00Diferenciais:- Prédio com elevador;- Piscina;- Área Gourmet.Endereço: Avenida Presidente Getúlio Vargas, 2295 Centro, Teixeira de Freitas.",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Clóvia Imobiliária",
-    "url": "https://www.cloviaimobiliaria.com.br/imovel/apartamento-teixeira-de-freitas/AP0023-CLOV",
-    "anuncioId": "AP0023-CLOV"
-   },
-   "preco": {
-    "aluguel": 3000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Clovapartamentocentro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 2,
-    "banheiros": 1,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
-    "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3t77-dC+TMakNgoBK+7nDK68b6S+9jFrUio563wiInZ1OjyYNnUkI0775XzInP1mbxXXuV5Kxk8ecBgFDezGqTeFj1dsRW+qUnMS5tbanN19C8pqT1K51i9Uqq05VMqix2MFOj7kgyFTLLHBmxAPu1HR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3BZwu1xzTosrJQDa62ksHCM4Jmx+e+ilWCVpLL4jqHE-966Gfzy0bE1j4P3AAf1iYQ+fvUDLmVZSLF6XgS0Y6SjHncAviiHuXXHEuN4ZEgJ2AspnypXxEKofriSplI0xii7O6v2pg2jQ6ntHFdhMcBHR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Y8wslXzyUxl-Y6dpGsuSitgLizvdW9iGi4pMOHuvbJ2cb2Y-fP6N8W0ZDdSWOlj7I1SMULA21WRelYXTLUBL6DNXp2pBaKn0nMV5VlcXRPji8csjdfwlWkdrmh6GJp336hG-LUgyijb6r-IldjFbxHR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu184zMBX6i1kqMQEVeGmhR6Dh9rM4MiCohqd1ZHZ7uPF3J3gDMvSjbAh6pniJQD3qap6e8Z7MXEnIrZ-YwHBf92MAHUK+TKnrELTeJd2SXUL8hg8ohR5wQWyYLGp0mc0xnuXNerxlAC8bZL9IA1kErMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0pIjPEyujA6r8hcbaWmnB684IrMzdG-oWOop5jTroKCzf78AtaEmY8i1rf+NQKilKNJZfkOFEldYfZKZBXDYZreDElqmRONvUqTZYBWf0pb2AoJmT526QGGXpW+znIv1Qf1OfjzqxSQRpLBKg1eSbMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu15p+u5EvjI6zuM4QaC3kTXc4L6P9-eInR2rqa7Jm7bZ8NPtQMn-9KUT3IH3K1qj7-Z1f9YdbH9oV9F2GwDuY7maDCJ7gzW1tkbBdIlWZHN37QgAggd16HWEdJme2FoA3BCPItHSi3W+VKT+NlhnIu9HR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2c47vJ34SosvI8FYIeGpCWK4LWZ+NyT6V235qmL5Z3Z0Z3ebvvBwqti-ZXCE2CIg7dpGeIKOVh2ZNQiYUf4ZIOwFXFqqmfS92DtEbVGU2Rt8w8Ruipc1FS5UMKXwAdg1A+DCOvDrwq7RZ30GQFDQPlLCdkx8QdQ8Bi1SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
-    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1s0xgxSbFGOsBT9+RO1zjks-ynciLnlXpdKzsuCVZKPvMZhGt-GI0v+QFtypVh7xY3icsFUfjg7XndgMKoyvKw6mCx17Tqnov84vjeYOqZmI41jvWqTALw7-I5FowrPRB3OrIhHRazBomJNnEL-GLJnELBRqMLaDEY9lB0iBFfjh-zRNL+qAYl.png"
-   ],
-   "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2436,7 +361,52 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2Y45-VW6UwMycQ2eLqPrTOuxdyJt+XEslqvw87dluPb8+T+R8XR+p5h5qP+Q2Snk-R+QOwub0sjVupzYkzPUImgYVtWmCmQnGjBU+d4HHJy5RsFlyxB7Vi-QsTwywMWgQCIJ86ItiCqZq7mWWt2JLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
+   }
+  },
+  {
+   "id": "clovia-ap0023-clov",
+   "titulo": "Centro - Teixeira de Freitas - BA",
+   "descricao": "Casa para Aluguel Centro | Teixeira de FreitasImóvel localizado no centro da cidade, na Avenida Presidente Getúlio Vargas, nº 2295, com ótima localização e fácil acesso aos principais pontos comerciais.A casa conta com:02 quartos01 suíte01 banheiro social02 salasCozinhaÁrea de serviço02 vagas de garagemValor do aluguel: R$ 3.000,00Diferenciais:- Prédio com elevador;- Piscina;- Área Gourmet.Endereço: Avenida Presidente Getúlio Vargas, 2295 Centro, Teixeira de Freitas.",
+   "tipo": "apartamento",
+   "status": "ativo",
+   "fonte": {
+    "nome": "Clóvia Imobiliária",
+    "url": "https://www.cloviaimobiliaria.com.br/imovel/apartamento-teixeira-de-freitas/AP0023-CLOV",
+    "anuncioId": "AP0023-CLOV"
+   },
+   "preco": {
+    "aluguel": 3000,
+    "custoMensalConhecido": null
+   },
+   "localizacao": {
+    "bairro": "Clovapartamentocentro",
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA"
+   },
+   "caracteristicas": {
+    "quartos": 2,
+    "banheiros": 1,
+    "garagens": null,
+    "areaM2": null
+   },
+   "fotos": [
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
+    "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3t77-dC+TMakNgoBK+7nDK68b6S+9jFrUio563wiInZ1OjyYNnUkI0775XzInP1mbxXXuV5Kxk8ecBgFDezGqTeFj1dsRW+qUnMS5tbanN19C8pqT1K51i9Uqq05VMqix2MFOj7kgyFTLLHBmxAPu1HR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu3BZwu1xzTosrJQDa62ksHCM4Jmx+e+ilWCVpLL4jqHE-966Gfzy0bE1j4P3AAf1iYQ+fvUDLmVZSLF6XgS0Y6SjHncAviiHuXXHEuN4ZEgJ2AspnypXxEKofriSplI0xii7O6v2pg2jQ6ntHFdhMcBHR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0Y8wslXzyUxl-Y6dpGsuSitgLizvdW9iGi4pMOHuvbJ2cb2Y-fP6N8W0ZDdSWOlj7I1SMULA21WRelYXTLUBL6DNXp2pBaKn0nMV5VlcXRPji8csjdfwlWkdrmh6GJp336hG-LUgyijb6r-IldjFbxHR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu184zMBX6i1kqMQEVeGmhR6Dh9rM4MiCohqd1ZHZ7uPF3J3gDMvSjbAh6pniJQD3qap6e8Z7MXEnIrZ-YwHBf92MAHUK+TKnrELTeJd2SXUL8hg8ohR5wQWyYLGp0mc0xnuXNerxlAC8bZL9IA1kErMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0pIjPEyujA6r8hcbaWmnB684IrMzdG-oWOop5jTroKCzf78AtaEmY8i1rf+NQKilKNJZfkOFEldYfZKZBXDYZreDElqmRONvUqTZYBWf0pb2AoJmT526QGGXpW+znIv1Qf1OfjzqxSQRpLBKg1eSbMNAdIz7EIJ8RC9W0J8p0oF7Jq1qTLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu15p+u5EvjI6zuM4QaC3kTXc4L6P9-eInR2rqa7Jm7bZ8NPtQMn-9KUT3IH3K1qj7-Z1f9YdbH9oV9F2GwDuY7maDCJ7gzW1tkbBdIlWZHN37QgAggd16HWEdJme2FoA3BCPItHSi3W+VKT+NlhnIu9HR9o47l9MqBG1U1ByqR9Q9JG2ozrBZrT0PpW61WIYQklkpNCiTqzwi82OZ5htFvpqLHoC91cXWaoQmvqIQKNz8k8NqufBERmHlELVhPYgYMf+HIVXmqoLlQncH7JPuR69wtbC0fCtbRyHMgVu9+2f8fq4aK32GKH1JDvhrZgR9ZydfZp-YNjxSEUWF1cnJycSpQD6vbmF4lLmcXjAtlFHVhOSnI5y7mQ6.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu2c47vJ34SosvI8FYIeGpCWK4LWZ+NyT6V235qmL5Z3Z0Z3ebvvBwqti-ZXCE2CIg7dpGeIKOVh2ZNQiYUf4ZIOwFXFqqmfS92DtEbVGU2Rt8w8Ruipc1FS5UMKXwAdg1A+DCOvDrwq7RZ30GQFDQPlLCdkx8QdQ8Bi1SUxy8h8d55m-oS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
+    "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1s0xgxSbFGOsBT9+RO1zjks-ynciLnlXpdKzsuCVZKPvMZhGt-GI0v+QFtypVh7xY3icsFUfjg7XndgMKoyvKw6mCx17Tqnov84vjeYOqZmI41jvWqTALw7-I5FowrPRB3OrIhHRazBomJNnEL-GLJnELBRqMLaDEY9lB0iBFfjh-zRNL+qAYl.png"
+   ],
+   "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0dp0vRC7U44v8wDDJ66pxO626uN6NSur2i9o6L0u5T9x53nAMXaxIkxjv-XOX6l7rJrfd4NF094WPtLZw37WpiSFmlBpR6XphnCQYlebUtn8yxju091wViWd4H950EJxAC1F-KdiCy+ff+5IQdyPLMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
+   "rastreamento": {
+    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2481,7 +451,52 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu05njoJQvCU9tcYJGZu9jHOo7rqNy96piWKG-5THgrLpyMrHZMvxxLo05oSuCUGF7KJCSNUoHH55RNVTRkz2b9y8FmNN-xa+g3fSTeYYH11I-FEjojZJ-VK4TMGy-Uco3SyAD9GBlhG0TL7EPFZERbMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
+   }
+  },
+  {
+   "id": "kellylima-686192",
+   "titulo": "Kitnet no fundo do hospital costa das baleias – teixeira de freitas – ba",
+   "descricao": "ALUGA-SE KIT NET NO BAIRRO VILA CARAÍPE, TEIXEIRA DE FREITAS-BA, COMPOSTA POR 01 SUÍTE, SALA CONJUGADA COM COZINHA, ÁREA...",
+   "tipo": "apartamento",
+   "status": "ativo",
+   "fonte": {
+    "nome": "Kelly Lima Corretora",
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/kitinete/teixeira-de-freitas-ba/vila-caraipe/kitnet-no-fundo-do-hospital-costa-das-baleias--teixeira-de-freitas---ba/686192",
+    "anuncioId": "686192"
+   },
+   "preco": {
+    "aluguel": 800,
+    "custoMensalConhecido": null
+   },
+   "localizacao": {
+    "bairro": "Vila Caraípe",
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA"
+   },
+   "caracteristicas": {
+    "quartos": null,
+    "banheiros": null,
+    "garagens": null,
+    "areaM2": null
+   },
+   "fotos": [
+    "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1715806419835171580641959304.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1715806421150171580642091505.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878377821743087837498whatsappimage2025-03-27at12.00.52.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878394811743087839279whatsappimage2025-03-27at12.00.51.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878412891743087841064whatsappimage2025-03-27at12.00.481.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878437731743087843571whatsappimage2025-03-27at12.00.48.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878457031743087845476whatsappimage2025-03-27at12.00.472.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878476341743087847420whatsappimage2025-03-27at12.00.471.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878500531743087849828whatsappimage2025-03-27at12.00.47.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/1752849674214whatsappimage2025-07-09at17.13.10.jpeg"
+   ],
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
+   "rastreamento": {
+    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2525,7 +540,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0h72+sw1jwPnukUeIHggw+18Jym1+eF8lTH4LjWlL-g6tLxbe7Gw7EAj-XaS1WomIc4Rdc9PUsoO9FISwzjbd6jJV9PnBirrHLUXuZ3ZkhO5T0SkjBy2wK-XsL17Vx17HCFMtPxgQHUEvq3HQxlQPlLCdkx8QdQ8Bi1SUxy8h8d4563vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwWNdAnqUckw-CSLJI7ky+k9HGhvStbhvVMQY9-LCWrKG1PPb2GKrsWWm+g5hGpM38apgMYKn1SEcVVWN2biId7FK4+OvGswCzIDnYuBAKChPH1Jw1.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2569,7 +584,51 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0BOyP1E6REkk8kjW+Oh5Rin9KWp-MvBr3OJ9YztlpfHjcHwVeqA-4AF1ITCAFj9qKJaefw2K3B0SN5zSS7aQ46lDCZ6jjnSnBzGT4Z5fDpJzQ8IkDBczwGUZZn13lwRwQaBNvP3qBGjU7DcIXZDQPlLCdkx8QdQ8Bi1SUxy8h8d4563vSCAaKyyLIOvkiMYDwYu6oa6SeKv15TFJsonDqooL34J41sRFqAe2beFX6J24QkLuOfUB1+EkBnHl+8kYMGwWNdAnqUckw-CSLJI7ky+k9HGhvStbhvVMQY9-LCWrKG1PPb2GKrsWWm+g5hGpM38apgMYKn1SEcVVWN2biId7FK4+OvGswCzIDnYuBAKChPH1Jw1.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
+   }
+  },
+  {
+   "id": "kellylima-689502",
+   "titulo": "Apartamento para locacao no centro de teixeira de freitas – ao lado da caixa",
+   "descricao": "ALUGA-SE APARTAMENTO NO CENTRO, LATERAL DA CAIXA ECONÔMICA \\n3° andar\\n\\nSala\\nCozinha \\n01 Suíte \\n02 Quartos Sociais \\...",
+   "tipo": "apartamento",
+   "status": "ativo",
+   "fonte": {
+    "nome": "Kelly Lima Corretora",
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro-de-teixeira-de-freitas--ao-lado-da-caixa/689502",
+    "anuncioId": "689502"
+   },
+   "preco": {
+    "aluguel": 1500,
+    "custoMensalConhecido": null
+   },
+   "localizacao": {
+    "bairro": "Centro",
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA"
+   },
+   "caracteristicas": {
+    "quartos": 2,
+    "banheiros": null,
+    "garagens": null,
+    "areaM2": null
+   },
+   "fotos": [
+    "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916936191171691693510001.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916938336171691693807702.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916939694171691693941703.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916942065171691694180204.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916943415171691694312705.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916945028171691694476906.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916946971171691694669307.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916948485171691694821908.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916949896171691694961809.jpg"
+   ],
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
+   "rastreamento": {
+    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2612,7 +671,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxtMwMJJyA4zqMNGc+eftiqW5omm4-nInGCx88L9le-88f-YDOni8J8C0o3NLgTytPdqaNgjFEF1S+0qRxzrWICqO2NNgCaTimfJab5kTnpSxgYSzBxQ6UvkWKi0qUE89nuuIc7Y+xLJE7L-AWFCFrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2655,7 +714,50 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0k53-Zz904ngtpCQpavpReYhoymw-CUkRmEpLLZkZnL5-n2TcfV7KUy04usEFyCjKRUdoV-NFFyf+hhRkzFQ7WvFyFwkguvj3zAY5ZgcVpv4ws+rjBy9n3nY7mV3A4AhQSpB-Pc8AjRT7qjRANwGcBHR9o47l9MqBG1U1ByqR9Q9JGypDLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
+   }
+  },
+  {
+   "id": "kellylima-779042",
+   "titulo": "Apartamento para locacao no centro – proximo a le biscuit – em teixeira de freitas ba",
+   "descricao": "APARTAMENTO PARA LOCAÇÃO NO CENTRO, PRÓXIMO A LE BISCUIT\\n\\nImóvel composto por: \\n01 Sala de Star;\\n01 Cozinha e Lavand...",
+   "tipo": "apartamento",
+   "status": "ativo",
+   "fonte": {
+    "nome": "Kelly Lima Corretora",
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro--proximo-a-le-biscuit--em-teixeira-de-freitas-ba/779042",
+    "anuncioId": "779042"
+   },
+   "preco": {
+    "aluguel": 1300,
+    "custoMensalConhecido": null
+   },
+   "localizacao": {
+    "bairro": "Centro",
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA"
+   },
+   "caracteristicas": {
+    "quartos": null,
+    "banheiros": null,
+    "garagens": null,
+    "areaM2": null
+   },
+   "fotos": [
+    "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931143911738693114267whatsappimage2025-02-03at11.10.16.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931064061738693106286whatsappimage2025-02-03at11.10.191.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931073171738693107200whatsappimage2025-02-03at11.10.19.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931081361738693108013whatsappimage2025-02-03at11.10.182.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931098221738693109707whatsappimage2025-02-03at11.10.181.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931107811738693110656whatsappimage2025-02-03at11.10.18.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931117421738693111619whatsappimage2025-02-03at11.10.172.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931125771738693112459whatsappimage2025-02-03at11.10.171.jpeg"
+   ],
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
+   "rastreamento": {
+    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2697,7 +799,7 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtuxhX7-JF4CwksZs2cbzkuCO4gI6OovXDrXOuxYPNuKPYhJ6keMHXk9FkjfeqLUOekbNXGvk6b20pacojbw62bYSOJFpboBTRqxr-ULp8ElNe2RMV1U5d-HmGBp6c+0w2hjqDJ9DErxOPEIy3IQFiGrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
@@ -2739,398 +841,12 @@
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu19o7OBz+jFiv+QHUKCngAqNgZew4f7E9VaEvbH8rpCFhcLTWfyb0pEi4L7JSAaKjqIgQuA1FG1ybe9XXRfKTqGHZVdtpBSmvBrjTZdvRUFV7w8NvAZ3gVXmV6GA8FQ-gzmdDs7cg3KlXbvdO05iDrMNAdIz7EIJ8RC9W0J8p0oF7J6yoS7TO7S-K5+hxzlXFx5k9oa+Squ619jCLJU4Vr0lNm4L5VMZWe0S2-TJT-8+5wEDqv3JFhXchgzWgPAoc9j0QdhBlKEFiAvDGuFO7Brpw9GShaf9bkzQYFFo9bGX8abiOP76HKnyOUWtkpoCs8+IC48Jcs+FXiNkAnFiIXwD5Re29rnZr1GrOHiZth5HFUHf1pR4qw==.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-776300",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/eixo-sul/imovel-para-locacao-no-bairro-eixo-sul--em-teixeira-de-freitas-ba/776300",
-    "anuncioId": "776300"
-   },
-   "preco": {
-    "aluguel": 2600,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Eixo Sul",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17380021391711738002138950whatsappimage2025-01-20at12.36.141.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-423313",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/novo-horizonte/excelente-imovel-disponivel-para-locacao-no-bairro-novo-horizonte-/423313",
-    "anuncioId": "423313"
-   },
-   "preco": {
-    "aluguel": 2950,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Novo Horizonte",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/16528947464231652894746290523b40ce-8795-42c9-bef1-c14b0b22182b.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-782531",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/recanto-do-lago/imovel-para-locacao-no-bairro-recanto-do-lago/782531",
-    "anuncioId": "782531"
-   },
-   "preco": {
-    "aluguel": 3000,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Recanto do Lago",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17395369744241739536974226whatsappimage2025-02-13at15.19.14.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-719220",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/monte-castelo/casa-com-4-dormitorios-para-locacao--monte-castelo--teixeira-de-freitas---ba/719220",
-    "anuncioId": "719220"
-   },
-   "preco": {
-    "aluguel": 4200,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Monte Castelo",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": 4,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17226319134401722631913175IMG-20240802-WA0067.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-760068",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/venda-e-locacao/casa/teixeira-de-freitas-ba/liberdade-sul/imovel-para-locacao-ou-venda-no-bairro-liberdade-sul/760068",
-    "anuncioId": "760068"
-   },
-   "preco": {
-    "aluguel": 1250,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Liberdade Sul",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17332548394081733254839202whatsappimage2024-12-03at16.14.224.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-520147",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/venda-e-locacao/casa/teixeira-de-freitas-ba/residencial-dos-pioneiros/excelente-imovel-para-locacao--no-bairro-residencial-dos-pioneiros/520147",
-    "anuncioId": "520147"
-   },
-   "preco": {
-    "aluguel": 1800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Residencial dos Pioneiros",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/vendido.png",
-    "https://si9dados3.com.br/fotos/kellylima/1680534193178168053419299754.jpg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/vendido.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-750278",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/mont-serrat-1/imovel-para-locacao-no-condominio-m--serrat-i--em-teixeira-de-freitas-ba/750278",
-    "anuncioId": "750278"
-   },
-   "preco": {
-    "aluguel": 2500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Mont Serrat",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17302967349001730296734610WhatsAppImage2024-10-29at17.50.59.jpeg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-358950",
-   "titulo": "Apartamento para alugar",
-   "descricao": "",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/redencao/aluga-se-excelente-apartamento-no-condominio-gabrigil--em-teixira-de-freitas--ba/358950",
-    "anuncioId": "358950"
-   },
-   "preco": {
-    "aluguel": 2800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Redenção",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17192516932931719251693146WhatsAppImage2024-06-23at10.58.10.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-542714",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/venda-e-locacao/casa/teixeira-de-freitas-ba/estancia-biquini/otimo-imovel-disponivel-para-venda-no-cond-eldorado-ii-/542714",
-    "anuncioId": "542714"
-   },
-   "preco": {
-    "aluguel": 1350,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Estância Biquíni",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1686754008481168675400815401.jpg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-668379",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/venda-e-locacao/casa/teixeira-de-freitas-ba/jardim-das-palmeiras-condominio/imovel-disponivel-para-venda-no-cond-jardim-das-palmeiras/668379",
-    "anuncioId": "668379"
-   },
-   "preco": {
-    "aluguel": 1600,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Jardim das Palmeiras",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17218498693271721849869083ImagemdoWhatsAppde2024-07-24As16.36.45_88cea409.jpg",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   },
   {
    "id": "kellylima-785088",
-   "titulo": "Casa para alugar",
+   "titulo": "Casa disponivel para venda e locacao – no bairro bela vista",
    "descricao": "",
    "tipo": "casa",
    "status": "ativo",
@@ -3155,123 +871,12 @@
     "areaM2": null
    },
    "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/17401650845661740165083178whatsappimage2025-02-17at08.59.171.jpeg",
-    "https://www.kellylimacorretora.com.br/images/car_1car_1.png",
-    "https://www.kellylimacorretora.com.br/images/bed_1bed_1.png",
-    "https://www.kellylimacorretora.com.br/images/shower_1shower_1.png"
+    "https://si9dados3.com.br/fotos/kellylima/17401650845661740165083178whatsappimage2025-02-17at08.59.171.jpeg"
    ],
    "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17401650845661740165083178whatsappimage2025-02-17at08.59.171.jpeg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-803835",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/bela-vista/casa-para-locacao--bela-vista--teixeira-de-freitas---ba/803835",
-    "anuncioId": "803835"
-   },
-   "preco": {
-    "aluguel": 2800,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Bela Vista",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/17442240421961744224041981whatsappimage2025-04-09at11.21.57.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-825549",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/mont-serrat-1/casa-para-locacao--mont-serrat-1--teixeira-de-freitas---ba/825549",
-    "anuncioId": "825549"
-   },
-   "preco": {
-    "aluguel": 4500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Mont Serrat",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1750251383083whatsappimage2025-06-18at09.40.22.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
-   }
-  },
-  {
-   "id": "kellylima-667020",
-   "titulo": "Casa para alugar",
-   "descricao": "",
-   "tipo": "casa",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/casa/teixeira-de-freitas-ba/redencao/casa-para-locacao--redencao--teixeira-de-freitas---ba/667020",
-    "anuncioId": "667020"
-   },
-   "preco": {
-    "aluguel": 6500,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Redenção",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://www.kellylimacorretora.com.br/images/alugado.png",
-    "https://si9dados3.com.br/fotos/kellylima/1750077421151whatsappimage2025-05-22at10.00.52.jpeg"
-   ],
-   "fotoPrincipal": "https://www.kellylimacorretora.com.br/images/alugado.png",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-02T12:01:27.573Z"
+    "ultimaCapturaEm": "2026-10-02T12:08:21.304Z"
    }
   }
  ]
