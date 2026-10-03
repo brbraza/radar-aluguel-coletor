@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-02T12:12:20.269Z",
+  "atualizadoEm": "2026-10-03T14:43:43.284Z",
   "fontes": {
     "zap": {
       "ok": false,
@@ -44,16 +44,14 @@
       "erro": null
     },
     "kellylima": {
-      "ok": true,
-      "paginas": 3,
-      "cartoes": 63,
-      "anuncios": 4,
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
       "http": [
-        200,
-        200,
         200
       ],
-      "erro": null
+      "erro": "bloqueado (captcha/antirrobô)"
     },
     "renatabarbosa": {
       "ok": false,
