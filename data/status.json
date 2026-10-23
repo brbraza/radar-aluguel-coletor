@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T15:17:36.341Z",
+  "atualizadoEm": "2026-10-23T15:04:35.396Z",
   "fontes": {
     "zap": {
       "ok": false,
@@ -34,8 +34,8 @@
     "clovia": {
       "ok": true,
       "paginas": 3,
-      "cartoes": 26,
-      "anuncios": 16,
+      "cartoes": 25,
+      "anuncios": 15,
       "http": [
         200,
         200,
