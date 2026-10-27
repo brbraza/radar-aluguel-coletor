@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-26T16:47:51.364Z",
+ "atualizadoEm": "2026-10-27T15:53:23.752Z",
  "total": 19,
  "anuncios": [
   {
@@ -46,6 +46,51 @@
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
     "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
+   }
+  },
+  {
+   "id": "kellylima-686192",
+   "titulo": "Kitnet no fundo do hospital costa das baleias – teixeira de freitas – ba",
+   "descricao": "ALUGA-SE KIT NET NO BAIRRO VILA CARAÍPE, TEIXEIRA DE FREITAS-BA, COMPOSTA POR 01 SUÍTE, SALA CONJUGADA COM COZINHA, ÁREA...",
+   "tipo": "apartamento",
+   "status": "ativo",
+   "fonte": {
+    "nome": "Kelly Lima Corretora",
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/kitinete/teixeira-de-freitas-ba/vila-caraipe/kitnet-no-fundo-do-hospital-costa-das-baleias--teixeira-de-freitas---ba/686192",
+    "anuncioId": "686192"
+   },
+   "preco": {
+    "aluguel": 800,
+    "custoMensalConhecido": null
+   },
+   "localizacao": {
+    "bairro": "Vila Caraípe",
+    "cidade": "Teixeira de Freitas",
+    "estado": "BA"
+   },
+   "caracteristicas": {
+    "quartos": null,
+    "banheiros": null,
+    "garagens": null,
+    "areaM2": null
+   },
+   "fotos": [
+    "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1715806419835171580641959304.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1715806421150171580642091505.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878377821743087837498whatsappimage2025-03-27at12.00.52.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878394811743087839279whatsappimage2025-03-27at12.00.51.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878412891743087841064whatsappimage2025-03-27at12.00.481.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878437731743087843571whatsappimage2025-03-27at12.00.48.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878457031743087845476whatsappimage2025-03-27at12.00.472.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878476341743087847420whatsappimage2025-03-27at12.00.471.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17430878500531743087849828whatsappimage2025-03-27at12.00.47.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/1752849674214whatsappimage2025-07-09at17.13.10.jpeg"
+   ],
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
+   "rastreamento": {
+    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
+    "ultimaCapturaEm": "2026-10-27T15:53:23.752Z"
    }
   },
   {
@@ -409,48 +454,47 @@
    }
   },
   {
-   "id": "kellylima-686192",
-   "titulo": "Kitnet no fundo do hospital costa das baleias – teixeira de freitas – ba",
-   "descricao": "ALUGA-SE KIT NET NO BAIRRO VILA CARAÍPE, TEIXEIRA DE FREITAS-BA, COMPOSTA POR 01 SUÍTE, SALA CONJUGADA COM COZINHA, ÁREA...",
+   "id": "kellylima-689502",
+   "titulo": "Apartamento para locacao no centro de teixeira de freitas – ao lado da caixa",
+   "descricao": "ALUGA-SE APARTAMENTO NO CENTRO, LATERAL DA CAIXA ECONÔMICA \\n3° andar\\n\\nSala\\nCozinha \\n01 Suíte \\n02 Quartos Sociais \\...",
    "tipo": "apartamento",
    "status": "ativo",
    "fonte": {
     "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/kitinete/teixeira-de-freitas-ba/vila-caraipe/kitnet-no-fundo-do-hospital-costa-das-baleias--teixeira-de-freitas---ba/686192",
-    "anuncioId": "686192"
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro-de-teixeira-de-freitas--ao-lado-da-caixa/689502",
+    "anuncioId": "689502"
    },
    "preco": {
-    "aluguel": 800,
+    "aluguel": 1500,
     "custoMensalConhecido": null
    },
    "localizacao": {
-    "bairro": "Vila Caraípe",
+    "bairro": "Centro",
     "cidade": "Teixeira de Freitas",
     "estado": "BA"
    },
    "caracteristicas": {
-    "quartos": null,
+    "quartos": 2,
     "banheiros": null,
     "garagens": null,
     "areaM2": null
    },
    "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1715806419835171580641959304.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1715806421150171580642091505.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878377821743087837498whatsappimage2025-03-27at12.00.52.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878394811743087839279whatsappimage2025-03-27at12.00.51.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878412891743087841064whatsappimage2025-03-27at12.00.481.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878437731743087843571whatsappimage2025-03-27at12.00.48.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878457031743087845476whatsappimage2025-03-27at12.00.472.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878476341743087847420whatsappimage2025-03-27at12.00.471.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17430878500531743087849828whatsappimage2025-03-27at12.00.47.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/1752849674214whatsappimage2025-07-09at17.13.10.jpeg"
+    "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916936191171691693510001.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916938336171691693807702.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916939694171691693941703.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916942065171691694180204.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916943415171691694312705.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916945028171691694476906.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916946971171691694669307.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916948485171691694821908.jpg",
+    "https://si9dados3.com.br/fotos/kellylima/1716916949896171691694961809.jpg"
    ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1715806418618171580641837903.jpg",
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
+    "ultimaCapturaEm": "2026-10-27T15:53:23.752Z"
    }
   },
   {
@@ -542,18 +586,18 @@
    }
   },
   {
-   "id": "kellylima-689502",
-   "titulo": "Apartamento para locacao no centro de teixeira de freitas – ao lado da caixa",
-   "descricao": "ALUGA-SE APARTAMENTO NO CENTRO, LATERAL DA CAIXA ECONÔMICA \\n3° andar\\n\\nSala\\nCozinha \\n01 Suíte \\n02 Quartos Sociais \\...",
+   "id": "kellylima-779042",
+   "titulo": "Apartamento para locacao no centro – proximo a le biscuit – em teixeira de freitas ba",
+   "descricao": "APARTAMENTO PARA LOCAÇÃO NO CENTRO, PRÓXIMO A LE BISCUIT\\n\\nImóvel composto por: \\n01 Sala de Star;\\n01 Cozinha e Lavand...",
    "tipo": "apartamento",
    "status": "ativo",
    "fonte": {
     "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro-de-teixeira-de-freitas--ao-lado-da-caixa/689502",
-    "anuncioId": "689502"
+    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro--proximo-a-le-biscuit--em-teixeira-de-freitas-ba/779042",
+    "anuncioId": "779042"
    },
    "preco": {
-    "aluguel": 1500,
+    "aluguel": 1300,
     "custoMensalConhecido": null
    },
    "localizacao": {
@@ -562,27 +606,26 @@
     "estado": "BA"
    },
    "caracteristicas": {
-    "quartos": 2,
+    "quartos": null,
     "banheiros": null,
     "garagens": null,
     "areaM2": null
    },
    "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916936191171691693510001.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916938336171691693807702.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916939694171691693941703.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916942065171691694180204.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916943415171691694312705.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916945028171691694476906.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916946971171691694669307.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916948485171691694821908.jpg",
-    "https://si9dados3.com.br/fotos/kellylima/1716916949896171691694961809.jpg"
+    "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931143911738693114267whatsappimage2025-02-03at11.10.16.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931064061738693106286whatsappimage2025-02-03at11.10.191.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931073171738693107200whatsappimage2025-02-03at11.10.19.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931081361738693108013whatsappimage2025-02-03at11.10.182.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931098221738693109707whatsappimage2025-02-03at11.10.181.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931107811738693110656whatsappimage2025-02-03at11.10.18.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931117421738693111619whatsappimage2025-02-03at11.10.172.jpeg",
+    "https://si9dados3.com.br/fotos/kellylima/17386931125771738693112459whatsappimage2025-02-03at11.10.171.jpeg"
    ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/1716916953021171691695273011.jpg",
+   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
+    "ultimaCapturaEm": "2026-10-27T15:53:23.752Z"
    }
   },
   {
@@ -666,49 +709,6 @@
     "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1s0xgxSbFGOsBT9+RO1zjks-ynciLnlXpdKzsuCVZKPvMZhGt-GI0v+QFtypVh7xY3icsFUfjg7XndgMKoyvKw6mCx17Tqnov84vjeYOqZmI41jvWqTALw7-I5FowrPRB3OrIhHRazBomJNnEL-GLJnELBRqMLaDEY9lB0iBFfjh-zRNL+qAYl.png"
    ],
    "fotoPrincipal": "https://img.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9ftWwjXgr7v5Znen3XVcMHllDVRJJeIbi3YwVYEtu0k53-Zz904ngtpCQpavpReYhoymw-CUkRmEpLLZkZnL5-n2TcfV7KUy04usEFyCjKRUdoV-NFFyf+hhRkzFQ7WvFyFwkguvj3zAY5ZgcVpv4ws+rjBy9n3nY7mV3A4AhQSpB-Pc8AjRT7qjRANwGcBHR9o47l9MqBG1U1ByqR9Q9JGypDLdaOenJpi9yWxNWAZ8vJq+TqjzwtiOK59nSeUyO3cb51URUaJf1-aKA+9jrwcLou-TCwSW3hrDkec3f8vtBcFOlasBkRDHG7Md6hi-lIGS0aSuPkyHZQA-oLiW8Pvlb-ryEK3xJyWBgYsA99iKf+4ed93jLjUAcyZwNTNd+x7z+LeLsE36IGDY9xBJWF6NzpZw5ik=.jpg",
-   "rastreamento": {
-    "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
-   }
-  },
-  {
-   "id": "kellylima-779042",
-   "titulo": "Apartamento para locacao no centro – proximo a le biscuit – em teixeira de freitas ba",
-   "descricao": "APARTAMENTO PARA LOCAÇÃO NO CENTRO, PRÓXIMO A LE BISCUIT\\n\\nImóvel composto por: \\n01 Sala de Star;\\n01 Cozinha e Lavand...",
-   "tipo": "apartamento",
-   "status": "ativo",
-   "fonte": {
-    "nome": "Kelly Lima Corretora",
-    "url": "https://www.kellylimacorretora.com.br/imovel/locacao/apartamento/teixeira-de-freitas-ba/centro/apartamento-para-locacao-no-centro--proximo-a-le-biscuit--em-teixeira-de-freitas-ba/779042",
-    "anuncioId": "779042"
-   },
-   "preco": {
-    "aluguel": 1300,
-    "custoMensalConhecido": null
-   },
-   "localizacao": {
-    "bairro": "Centro",
-    "cidade": "Teixeira de Freitas",
-    "estado": "BA"
-   },
-   "caracteristicas": {
-    "quartos": null,
-    "banheiros": null,
-    "garagens": null,
-    "areaM2": null
-   },
-   "fotos": [
-    "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931143911738693114267whatsappimage2025-02-03at11.10.16.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931064061738693106286whatsappimage2025-02-03at11.10.191.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931073171738693107200whatsappimage2025-02-03at11.10.19.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931081361738693108013whatsappimage2025-02-03at11.10.182.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931098221738693109707whatsappimage2025-02-03at11.10.181.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931107811738693110656whatsappimage2025-02-03at11.10.18.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931117421738693111619whatsappimage2025-02-03at11.10.172.jpeg",
-    "https://si9dados3.com.br/fotos/kellylima/17386931125771738693112459whatsappimage2025-02-03at11.10.171.jpeg"
-   ],
-   "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17386931034051738693103292whatsappimage2025-02-03at11.10.193.jpeg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
     "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
@@ -830,7 +830,7 @@
    "fotoPrincipal": "https://si9dados3.com.br/fotos/kellylima/17401650845661740165083178whatsappimage2025-02-17at08.59.171.jpeg",
    "rastreamento": {
     "primeiraCapturaEm": "2026-10-02T12:01:27.573Z",
-    "ultimaCapturaEm": "2026-10-26T16:47:51.364Z"
+    "ultimaCapturaEm": "2026-10-27T15:53:23.752Z"
    }
   }
  ]
