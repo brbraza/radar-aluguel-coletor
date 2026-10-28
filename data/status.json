@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-27T15:53:23.752Z",
+  "atualizadoEm": "2026-10-28T16:38:19.407Z",
   "fontes": {
     "zap": {
       "ok": false,
@@ -37,21 +37,19 @@
       "cartoes": 0,
       "anuncios": 0,
       "http": [
-        503
+        404
       ],
-      "erro": "HTTP 503"
+      "erro": "HTTP 404"
     },
     "kellylima": {
-      "ok": true,
-      "paginas": 3,
-      "cartoes": 63,
-      "anuncios": 4,
+      "ok": false,
+      "paginas": 0,
+      "cartoes": 0,
+      "anuncios": 0,
       "http": [
-        200,
-        200,
         200
       ],
-      "erro": null
+      "erro": "bloqueado (captcha/antirrobô)"
     },
     "renatabarbosa": {
       "ok": false,
