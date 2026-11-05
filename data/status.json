@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T17:59:14.624Z",
+  "atualizadoEm": "2026-11-05T18:01:37.702Z",
   "fontes": {
     "zap": {
       "ok": false,
@@ -42,12 +42,16 @@
       "erro": "HTTP 404"
     },
     "kellylima": {
-      "ok": false,
-      "paginas": 0,
-      "cartoes": 0,
-      "anuncios": 0,
-      "http": [],
-      "erro": "fetch failed"
+      "ok": true,
+      "paginas": 3,
+      "cartoes": 63,
+      "anuncios": 4,
+      "http": [
+        200,
+        200,
+        200
+      ],
+      "erro": null
     },
     "renatabarbosa": {
       "ok": false,
