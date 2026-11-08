@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T16:27:11.231Z",
+  "atualizadoEm": "2026-11-08T16:40:41.307Z",
   "fontes": {
     "zap": {
       "ok": false,
@@ -46,8 +46,10 @@
       "paginas": 0,
       "cartoes": 0,
       "anuncios": 0,
-      "http": [],
-      "erro": "fetch failed"
+      "http": [
+        200
+      ],
+      "erro": "bloqueado (captcha/antirrobô)"
     },
     "renatabarbosa": {
       "ok": false,
